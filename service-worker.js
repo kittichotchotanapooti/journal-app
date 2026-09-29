@@ -1,7 +1,9 @@
-const CACHE = 'jrnl-v1';
+const CACHE = 'jrnl-v2';
 const ASSETS = [
   './',
   './index.html',
+  './styles.css',
+  './app.js',
   './manifest.json',
   './icons/icon-192.png',
   './icons/icon-512.png',
