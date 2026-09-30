@@ -1,4 +1,4 @@
-const CACHE = 'jrnl-v2';
+const CACHE = 'jrnl-v3';
 const ASSETS = [
   './',
   './index.html',
